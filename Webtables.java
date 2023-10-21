@@ -6,19 +6,9 @@ import org.openqa.selenium.chrome.ChromeOptions;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-/**
- * 
- */
-
-/**
- * @author kapilnegi
- *
- */
 public class Webtables {
 
-	/**
-	 * @param args
-	 */
+	
 	public static void main(String[] args) {
 		// System Property for Chrome Driver
 		ChromeOptions cc_options = new ChromeOptions();
